@@ -8,9 +8,6 @@
  * registerDataCallback()
  * registerUserIdentityCallback()
  * registerHostId()
- *
- * For more documentation and examples see:
- * https://docs.google.com/a/mendeley.com/document/d/1d4cgmdWIa9GZvOLZGPw3iEBRdh22RWjW-lvKAjCGamw
  */
 MendeleyImporterApi = {};
 
