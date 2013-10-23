@@ -4,7 +4,7 @@
 
 The Web Importer API provides callbacks to third-party websites to improve integration with the [Mendeley Web Importer bookmarklet][].
 
-As a website developer, you can leverage the Mendeley Web Importer to allow users to easily save academic references and full text PDFs from your website into their Mendeley libraries. The users do not have to have [Mendeley Web Importer bookmarklet][] installed in their browsers for this API to work.
+As a website developer, you can leverage the Mendeley Web Importer to allow users to easily save academic references and full text PDFs from your website straight into their Mendeley libraries. The users do not have to have [Mendeley Web Importer bookmarklet][] installed in their browsers for this API to work.
 
 ## Usage
 
