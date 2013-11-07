@@ -18,7 +18,7 @@ As a website developer, you can leverage the Mendeley Web Importer to allow user
 
 `hostId` is expected to be a string, which identifies the host site
 
-Use the fully qualified domain name of your site, e.g. www.your-site.com. Note that this is purely for the purpose of identification.
+Please use Java package-like naming convention, e.g. com.your-site. Note that this is purely for the purpose of identification.
 
 ### MendeleyImporterApi.registerUserIdentityCallback(callback) ###
 
