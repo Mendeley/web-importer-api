@@ -1,0 +1,20 @@
+{
+  "name": "mendeley-web-importer-api",
+  "description": "Mendeley Web Importer API",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Mendeley/web-importer-api",
+  "authors": [
+    "Paul Willoughby <paul.willoughby@mendeley.com>",
+    "See Wah Cheng <seewah.cheng@mendeley.com>"
+  ],
+  "main": "importer-api.js",
+  "license": "BSD",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
