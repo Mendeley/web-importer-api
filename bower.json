@@ -1,7 +1,7 @@
 {
   "name": "mendeley-web-importer-api",
   "description": "Mendeley Web Importer API",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "homepage": "https://github.com/Mendeley/web-importer-api",
   "authors": [
     "Paul Willoughby <paul.willoughby@mendeley.com>",
