@@ -1,4 +1,4 @@
-*__Please Notes:__ This is currently an experimental API. If you can interested in using it, please get in touch with [See Wah Cheng][].
+**As of March 2016 this API is deprecated and Mendeley are no longer supporting it.**
 
 # Mendeley Web Importer API
 
@@ -44,4 +44,3 @@ This will simply remove the importer UI element from the current page. This will
 
 
 [Mendeley Web Importer bookmarklet]:http://www.mendeley.com/import/
-[See Wah Cheng]:http://www.mendeley.com/profiles/see-wah-cheng/
