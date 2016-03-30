@@ -2,6 +2,8 @@ language: node_js
 
 sudo: false
 
-before_install: npm install -g bower
+before_install: npm install -g bower jshint
 
 install: bower install
+
+script: jshint importer-api.js
